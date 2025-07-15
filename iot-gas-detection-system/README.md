@@ -1,0 +1,2 @@
+# IoT Gas Detection System
+Final project for *EEL5739 — IoT Security and Privacy*. This design is a secure system that monitors gas levels in a research facility, e.g. a lab that incorporates gas-powered equipment. A MQTT broker hosted by AWS is used to establish a  secure communication channel via SSL certificate encryption. Multiple IoT devices can be deployed for scalable detection capacity. Security challenges and risks are throughly detailed in a risk assessment.
