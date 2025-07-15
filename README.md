@@ -15,18 +15,21 @@ This repo is missing information, please check back later.
 ## List of Projects
 ### [RISC-V Core](https://github.com/gcad-ee/RISCV)
 In-progress, repo is currently private but will be made public once RV32I compliance is reached.
-### LoRaWAN Gateway System with Client Devices
+### [LoRaWAN Gateway System with Client Devices](/lorawan-system/README.md)
 
-### 64-bit Ring Oscillator (RO) Physical Unclonable Function (PUF)
+### [64-bit Ring Oscillator (RO) Physical Unclonable Function (PUF)](/64b-ro-puf/README.md)
 
-### MIPS ISA Compliant Processor
+### [MIPS ISA Compliant Processor](/mips-processor/README.md)
 
-### 32-bit 12 Round Simon Cipher
+### [32-bit 12 Round Simon Cipher](/32b-12r-simon-cipher/README.md)
 
-### VLSI SRAM Column and Row Decoder Design
+### [VLSI SRAM Column and Row Decoder Design](/iot-gas-detection-system/README.md)
 
-### IoT Gas Detection System
+### [IoT Gas Detection System](/iot-gas-detection-system/README.md)
+Automatic gas detection system developed as a group for the final project of EEL5739 — *IoT Security and Privacy*. This system incorporates an MQTT broker hosted on AWS to transmit and collect data from ESP32 nodes. Alerts issued on dedicated MQTT channel to allow flexible response implementation.
 
+**[IMPORT AND EMBED IMAGE]**\
+**Technologies used:** IoT, MQTT, ESP32, AWS IoT Core, Secure Channel Communications, Risk Assesment
 ## MIT License
 All personal projects hosted in this repository are under an MIT license. A copy of this license is included either within each project directory, or within the uploaded files.\
 Any projects hosted outside this repository are subject to the terms of the license in their respective repository.\
